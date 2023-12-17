@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(156, 230, 156);
+}
+
+#myCanvas {
+    border-left: 5px solid #9C9898;
+    border-right: 5px solid #9C9898;
+    margin: 0 auto 0;
+    display: block;
+    overflow:hidden;
+    background-color: #eedfdf;
+}
