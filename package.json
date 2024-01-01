@@ -1,0 +1,23 @@
+{
+  "name": "self-driving",
+  "version": "1.0.0",
+  "description": "cool stuff",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stujmar/self-driving.git"
+  },
+  "author": "Stuart Marsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stujmar/self-driving/issues"
+  },
+  "homepage": "https://github.com/stujmar/self-driving#readme",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "prettier": "3.1.1"
+  }
+}

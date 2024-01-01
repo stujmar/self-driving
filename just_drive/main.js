@@ -1,4 +1,4 @@
-console.log('... game loading ...');
+console.log('... game loading ...'); // eslint-disable-line no-console
 
 const canvas = document.querySelector('#myCanvas');
 canvas.width = 200;
